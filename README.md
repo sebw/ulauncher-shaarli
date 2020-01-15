@@ -6,4 +6,6 @@ Search in your bookmarks stored in Shaarli.
 
 `pip install shaarli-client`
 
-<!-- <img aligh="center" src="http://i.imgur.com/NFFR1tm.png"> -->
+## Demo
+
+<img aligh="center" src="https://raw.githubusercontent.com/sebw/ulauncher-shaarli/master/demo.gif">
