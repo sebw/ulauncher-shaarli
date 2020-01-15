@@ -1,4 +1,4 @@
-# Shaarli Bookmark Searh
+# Shaarli Bookmark Search
 
 Search in your bookmarks stored in Shaarli.
 
