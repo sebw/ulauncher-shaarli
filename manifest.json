@@ -1,0 +1,39 @@
+{
+  "required_api_version": "^2.0.0",
+  "name": "Shaarli Bookmarks Search",
+  "description": "Search your self hosted bookmarks",
+  "developer_name": "Sebastien Wains",
+  "icon": "images/icon.png",
+  "options": {
+    "query_debounce": 1
+  },
+  "preferences": [
+    {
+      "id": "demo_kw",
+      "type": "keyword",
+      "name": "Shaarli",
+      "default_value": "shaarli"
+    },
+    {
+      "id": "setting_url",
+      "type": "text",
+      "name": "URL",
+      "description": "Example: https://shaarli.example.org",
+      "default_value": ""
+    },
+    {
+      "id": "setting_api",
+      "type": "text",
+      "name": "API",
+      "description": "Found under Tools > Configure your Shaarli > API Secret",
+      "default_value": ""
+    },
+    {
+      "id": "setting_limit",
+      "type": "text",
+      "name": "Limit",
+      "description": "Limit the number of bookmarks to return",
+      "default_value": "10"
+    }
+  ]
+}
