@@ -1,10 +1,14 @@
-# Shaarli Bookmark Search
+# Shaarli Bookmarks Search
 
-Search in your bookmarks stored in Shaarli.
+Search your bookmarks stored in Shaarli.
 
 ## Requirements
 
 `pip install shaarli-client`
+
+## Limitations
+
+For now, search is only tag based.
 
 ## Demo
 
