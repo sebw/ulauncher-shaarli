@@ -4,7 +4,7 @@ Search your bookmarks stored in Shaarli.
 
 ## Requirements
 
-Ulauncher: [](https://ulauncher.io)
+Ulauncher: [https://ulauncher.io](https://ulauncher.io)
 
 Shaarli Library: `pip install shaarli-client`
 
