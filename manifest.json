@@ -24,7 +24,7 @@
     {
       "id": "setting_api",
       "type": "text",
-      "name": "API",
+      "name": "API Secret",
       "description": "Found under Tools > Configure your Shaarli > API Secret",
       "default_value": ""
     },
